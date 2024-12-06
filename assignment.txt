@@ -1,0 +1,53 @@
+Fix71: Resolva o seguinte problema em python. Considere a seguinte lista de compras de produtos de supermercado. Depois identifique qual é o produto mais barato, o produto mais caro, a media e o valor total da compra..
+
+Para isto considere a seguinte lista de produtos
+produtos = [20.50, 8.90, 5.40, 7.80, 15.00, 4.30, 6.50, 12.00, 13.50, 9.80]
+
+Fix72: Crie um dicionário chamado pessoa contendo as seguintes informações: nome, idade e cidade.
+Após isso, adicione uma nova chave profissão com o valor "programador". Exiba o dicionário antes e depois da alteração em ordem alfabética.
+pessoa = { 'nome': 'João', 'idade': 30,
+'cidade': 'São Paulo'
+}
+
+Fix73: Dado o dicionário carro, com as chaves marca, modelo, ano, cor, escreva um código para acessar e imprimir em ordem alfabética o valor de cada chave.
+carro = { 'marca': 'Fiat',
+'modelo': 'Uno', 'ano': 2015,
+'cor': 'preto'
+}
+
+Fix74: Dado o dicionário aluno, verifique se a chave nota existe. Caso exista, exiba o valor. Caso contrário, adicione a chave nota com o valor 7.5 e mostre o dicionário em ordem alfabética.
+
+
+aluno = { 'nome': 'Ana', 'idade': 22,
+'curso': 'Engenharia'
+}
+
+Fix75: Dado o dicionário produtos, remova o item com a chave preço e imprima o dicionário antes e depois da remoção.
+
+
+produtos = {
+'nome': 'Camiseta',
+'cor': 'azul',
+'tamanho': 'M', 'preço': 49.90
+}
+
+Fix76: Dada a lista de ling_programação = ['python', 'java', 'R', 'python', 'C', 'R', 'python', 'PHP', 'java', 'R', 'C++', 'PHP'], crie um dicionário que conte o número de ocorrências de cada palavra e imprima o resultado.
+
+
+ling_programação = ['python', 'java', 'R','python', 'C', 'R', 'python', 'PHP', 'java', 'R','C++', 'PHP']
+
+Fix77: Resolva o seguinte problema em python. Considere o dicionário a seguir, que contem 10 items de valores de compra de produtos de supermercado. Identifique qual é o produto mais barato, o produto mais caro, a media e o valor total da compra. Depois mostre os produtos e com seus respectivos valores em ordem alfabética
+# Dicionário de compras com produtos e preços produtos = {
+'Arroz': 20.50,
+'Feijão': 8.90,
+'Macarrão': 5.40,
+'Óleo': 7.80,
+'Café': 15.00,
+'Açúcar': 4.30,
+'Leite': 6.50,
+'Pão': 12.00,
+'Manteiga': 13.50,
+'Farinha': 9.80
+}
+
+
